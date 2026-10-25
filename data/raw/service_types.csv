@@ -1,0 +1,6 @@
+service_type_id,category,sla_hours
+1,Electrical,24
+2,Plumbing,24
+3,AC Repair,48
+4,Washing Machine,48
+5,RO Service,72
