@@ -44,4 +44,4 @@ SQL (MySQL/PostgreSQL), Excel, Power BI, Python (data generation)
 
 ## Status
 - [x] Step 1: Business scenario and KPIs
-- [ ] Step 2: Data model
+- [x] Step 2: Data model
