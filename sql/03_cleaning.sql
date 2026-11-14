@@ -17,7 +17,7 @@ INSERT INTO map_city VALUES
  ('delhi','Delhi'),('new delhi','Delhi'),
  ('mumbai','Mumbai'),('bombay','Mumbai'),
  ('bengaluru','Bengaluru'),('bangalore','Bengaluru'),('bengalore','Bengaluru'),
- ('hyderabad','Hyderabad'),('hyderbad','Hyderabad'),
+ ('hyderabad','Hyderabad'),('hyderbad','Hyderabad'),('hyd','Hyderabad'),
  ('pune','Pune');
 
 DROP TABLE IF EXISTS map_category;
