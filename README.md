@@ -49,7 +49,7 @@ SQL (MySQL/PostgreSQL), Excel, Power BI, Python (data generation)
 - [x] Step 4: Database and staging tables created     
 - [x] Step 5: Data cleaning and validation
 - [x] Step 6: SQL analysis views
-- [ ] Step 7: Excel reports
+- [x] Step 7: Excel reports
 - [ ] Step 8: Power BI dashboard
 - [ ] Step 9: Insights and final documentation
 
